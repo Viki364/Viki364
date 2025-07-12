@@ -59,6 +59,7 @@ I ensure **secure**, **scalable**, and **consistent deployments** across environ
 ![TFLint](https://img.shields.io/badge/TFLint-4040B2?style=flat&logo=terraform&logoColor=white)
 ![tfsec](https://img.shields.io/badge/tfsec-7D4698?style=flat&logo=terraform&logoColor=white)
 
+
 ---
 
 ## 📊 GitHub Stats
@@ -76,9 +77,15 @@ I ensure **secure**, **scalable**, and **consistent deployments** across environ
 
 ## 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vikrantsh75/)  
-- 💻 [GitHub](https://github.com/Viki364)  
-- 📧 Email: vikrantsh75@gmail.com
+<p align="center">
+  <a href="mailto:vikrantsh75@gmail.com"><img src="https://img.shields.io/badge/Email-vikrantsh75@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vikrantsh75/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Vikrant%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Viki364" target="_blank"><img src="https://img.shields.io/badge/GitHub-Viki364-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center">
+  💬 I'm always open to discussing cloud, DevOps, automation, or collaboration opportunities.
+</p>
 
 ---
 
